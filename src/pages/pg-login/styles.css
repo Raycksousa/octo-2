@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html{
+	background-color:#19b2f5 ;
+	
+}
+h1{
+	font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+}
+.cardlogin{
+	position: relative;
+	margin: auto;
+	left: 0;
+	right: 0;
+	top: 2rem;
+	bottom: 0;
+}
